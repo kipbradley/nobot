@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smks/robot.git"
+    "url": "git+https://github.com/kipbradley/robot.git"
   },
   "keywords": [
     "nobot",
@@ -46,7 +46,7 @@
     "sinon": "^4"
   },
   "bugs": {
-    "url": "https://github.com/smks/nobot/issues"
+    "url": "https://github.com/kipbradley/robot/issues"
   },
-  "homepage": "https://github.com/smks/nobot#readme"
+  "homepage": "https://github.com/kipbradley/robot#readme"
 }
