@@ -1,4 +1,4 @@
-# robot
+# nobot
 
 Node Build Tool to automate builds of existing game templates
 

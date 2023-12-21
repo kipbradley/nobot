@@ -1,5 +1,5 @@
 {
-  "name": "robot",
+  "name": "nobot",
   "version": "0.0.1",
   "description": "Provides automation for building Marketing Design Promotions",
   "main": "index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kipbradley/robot.git"
+    "url": "git+https://github.com/kipbradley/nobot.git"
   },
   "keywords": [
     "nobot",
@@ -46,7 +46,7 @@
     "sinon": "^4"
   },
   "bugs": {
-    "url": "https://github.com/kipbradley/robot/issues"
+    "url": "https://github.com/kipbradley/nobot/issues"
   },
-  "homepage": "https://github.com/kipbradley/robot#readme"
+  "homepage": "https://github.com/kipbradley/nobot#readme"
 }
