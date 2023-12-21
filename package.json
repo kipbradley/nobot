@@ -1,5 +1,5 @@
 {
-  "name": "nobot",
+  "name": "robot",
   "version": "0.0.1",
   "description": "Provides automation for building Marketing Design Promotions",
   "main": "index.js",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smks/nobot.git"
+    "url": "git+https://github.com/smks/robot.git"
   },
   "keywords": [
     "nobot",
     "game",
     "automatingwithnodejs"
   ],
-  "author": "shaun.stone",
+  "author": "kipbradley",
   "contributors": [],
   "license": "ISC",
   "dependencies": {
